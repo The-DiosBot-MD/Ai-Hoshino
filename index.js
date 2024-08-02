@@ -1,4 +1,4 @@
-console.log('✯ Iniciando ✯')
+console.log('👑Iniciando..')
 
 import { join, dirname } from 'path'
 import { createRequire } from 'module';
@@ -22,7 +22,7 @@ const rl = createInterface(process.stdin, process.stdout)
 const app = express()
 const port = process.env.PORT || 8080;
 
-say('Ai Hoshino\nOshi No Ko', {
+say('Tora\nKokoshi', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
