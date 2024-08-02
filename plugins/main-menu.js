@@ -36,6 +36,7 @@ const defaultMenu = {
 > ✩│✯ *⏱ Tiempo Activo* : %muptime
 > ┬│✯ *👤 Usuarios* : %totalreg
 > ┬│✯ *Apoyo* : https://whatsapp.com/channel/0029VaGt7Uk6WaKkEDZUh43W
+> ┬│✯ *Apoyo_2* : https://chat.whatsapp.com/FwFDkYcyxrY3UyB4eEhYsY
 > │╰────────────────···
 > ╰───────────═┅═──────────
 > %readmore
