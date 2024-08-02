@@ -28,8 +28,7 @@ let tags = {
 
 const defaultMenu = {
   before: `> Tora-Kokoshi
-“ Hola *%name*, %greeting ”
-
+> “ Hola *%name*, %greeting ”
 > ╭──═[ *Info* ]═────⋆
 > │╭───────────────···
 > ┴│✯ *🍬 Modo* : Público
@@ -48,8 +47,7 @@ const defaultMenu = {
 > │╰────────────────···
 > ╰───────────═┅═──────────
 > %readmore
-*Tora-Kokoshi- Bot to Whatsapp*
-
+> *Tora-Kokoshi- Bot to Whatsapp*
 > *L I S T A  -  M E N Ú S*
 `.trimStart(),
   header: '> ╭───═[ `MENÚ メ %category` ]═────⋆\n│╭──────────···',
