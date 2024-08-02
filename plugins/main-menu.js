@@ -35,6 +35,7 @@ const defaultMenu = {
 > ✩│✯ *📚 Baileys* : Multi Device
 > ✩│✯ *⏱ Tiempo Activo* : %muptime
 > ┬│✯ *👤 Usuarios* : %totalreg
+> ┬│✯ *Apoyo* : https://whatsapp.com/channel/0029VaGt7Uk6WaKkEDZUh43W
 > │╰────────────────···
 > ╰───────────═┅═──────────
 > %readmore
